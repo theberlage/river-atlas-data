@@ -1,1 +1,1 @@
-## Industry Subtheme
+Industry Subtheme
