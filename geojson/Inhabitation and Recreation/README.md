@@ -6,5 +6,5 @@
 2. 
 3. 
 
-## notes for 09/22
+## notes 09/22
 missing Panner- Rijswijk
