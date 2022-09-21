@@ -1,0 +1,650 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.451934,
+                    51.906695
+                ]
+            },
+            "properties": {
+                "map": "b",
+                "title": "gas factory",
+                "subtheme": "industry"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.464665,
+                    51.904048
+                ]
+            },
+            "properties": {
+                "map": "b",
+                "type": "",
+                "title": "palm oil factory",
+                "subtheme": "industry",
+                "start date": 1874
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.461932,
+                    51.903464
+                ]
+            },
+            "properties": {
+                "map": "b",
+                "title": "machine factory",
+                "subtheme": "industry",
+                "start date": 1855
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.477046,
+                    51.910379
+                ]
+            },
+            "properties": {
+                "map": "b",
+                "title": "gas factory",
+                "subtheme": "industry"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.507629,
+                    51.919142
+                ]
+            },
+            "properties": {
+                "map": "b",
+                "title": "steam flour factory",
+                "subtheme": "industry"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.515298,
+                    51.91879
+                ]
+            },
+            "properties": {
+                "map": "b",
+                "title": "glass blowing workshop",
+                "subtheme": "industry"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.50308,
+                    51.923551
+                ]
+            },
+            "properties": {
+                "map": "b",
+                "title": "gas factory",
+                "subtheme": "industry"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.456199,
+                    51.904204
+                ]
+            },
+            "properties": {
+                "map": "b",
+                "title": "steam sawmill",
+                "subtheme": "agriculture",
+                "start date": 1856
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.44701,
+                    51.906214
+                ]
+            },
+            "properties": {
+                "map": "b,d",
+                "title": "malt mill Het Vertrouwen",
+                "subtheme": "agriculture",
+                "start date": 1853
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.448731,
+                    51.905317
+                ]
+            },
+            "properties": {
+                "map": "a,b,d",
+                "title": "malt wind mill",
+                "subtheme": "agriculture"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.45015,
+                    51.905473
+                ]
+            },
+            "properties": {
+                "map": "b",
+                "title": "flour mill",
+                "subtheme": "agriculture"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.447504,
+                    51.910677
+                ]
+            },
+            "properties": {
+                "map": "a,b,d",
+                "title": "flour mill",
+                "subtheme": "agriculture"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.446987,
+                    51.907322
+                ]
+            },
+            "properties": {
+                "map": "a,b",
+                "title": "flour mill",
+                "subtheme": "agriculture",
+                "start date": 1793
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.442623,
+                    51.917215
+                ]
+            },
+            "properties": {
+                "map": "b",
+                "title": "sawmill",
+                "ref link": "https://jgsmits.home.xs4all.nl/delfshaven/heden_verdw_molens.html",
+                "subtheme": "agriculture"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.453208,
+                    51.904741
+                ]
+            },
+            "properties": {
+                "map": "b",
+                "title": "chicory factory Gebr.Krielaart",
+                "subtheme": "agriculture"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.506191,
+                    51.921101
+                ]
+            },
+            "properties": {
+                "map": "b",
+                "title": "wood sawmill Fortuin",
+                "subtheme": "agriculture",
+                "start date": 1822
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.508542,
+                    51.920624
+                ]
+            },
+            "properties": {
+                "map": "b",
+                "title": "wood sawmill",
+                "start date": 1840
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.50362,
+                    51.921777
+                ]
+            },
+            "properties": {
+                "map": " b",
+                "title": "oil mill de Peas",
+                "subtheme": "agriculture",
+                "start date": 1835
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.512217,
+                    51.919818
+                ]
+            },
+            "properties": {
+                "title": "wood sawmill",
+                "subtheme": "agriculture",
+                "start date": 1853
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.514273,
+                    51.919237
+                ]
+            },
+            "properties": {
+                "map": "b",
+                "title": "steam rice peeling mill",
+                "subtheme": "agriculture",
+                "start date": 1834
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.514826,
+                    51.919197
+                ]
+            },
+            "properties": {
+                "map": "b",
+                "title": "steam rice peeling mill",
+                "subtheme": "agriculture",
+                "start date": 1856
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.511337,
+                    51.918722
+                ]
+            },
+            "properties": {
+                "map": "b",
+                "title": "steam sawmill",
+                "subtheme": "agriculture"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.509662,
+                    51.918762
+                ]
+            },
+            "properties": {
+                "map": "b",
+                "title": "sawmill",
+                "subtheme": "agriculture"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.507349,
+                    51.919498
+                ]
+            },
+            "properties": {
+                "title": "sawmill",
+                "subtheme": "agriculture"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.522094,
+                    51.906652
+                ]
+            },
+            "properties": {
+                "title": "mill Zorgoliet",
+                "start date": 1822
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.52315,
+                    51.906299
+                ]
+            },
+            "properties": {
+                "map": "b",
+                "title": "fertilizer factory",
+                "subtheme": "agriculture",
+                "start date": 1874
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.52294,
+                    51.905934
+                ]
+            },
+            "properties": {
+                "map": "b",
+                "title": "lime roaster",
+                "subtheme": "agriculture",
+                "start date": 1851
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.456862,
+                    51.904638
+                ]
+            },
+            "properties": {
+                "map": "a",
+                "title": "mill Maaszigt",
+                "subtheme": "agriculture"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.522823,
+                    51.904055
+                ]
+            },
+            "properties": {
+                "map": "b",
+                "title": "sulfuric acid factory",
+                "subtheme": "agriculture",
+                "start date": 1854
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.457122,
+                    51.904676
+                ]
+            },
+            "properties": {
+                "map": "b",
+                "title": "oil mill",
+                "start date": 1875
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.476252,
+                    51.912021
+                ]
+            },
+            "properties": {
+                "map": "b",
+                "title": "steam pumping station for the Water Project",
+                "end date": 1871,
+                "subtheme": "civil_infrastructure",
+                "start date": 1870
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.47349,
+                    51.914655
+                ]
+            },
+            "properties": {
+                "map": "d",
+                "title": "electric pump",
+                "subtheme": "civil_infrastructure"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.476273,
+                    51.912114
+                ]
+            },
+            "properties": {
+                "map": "d",
+                "title": "electric pump",
+                "subtheme": "civil_infrastructure"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.479865,
+                    51.912776
+                ]
+            },
+            "properties": {
+                "map": "a,b",
+                "title": "water mill",
+                "subtheme": "civil_infrastructure"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.482829,
+                    51.911195
+                ]
+            },
+            "properties": {
+                "map": "a",
+                "title": "water mill",
+                "subtheme": "civil_infrastructure"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.48228,
+                    51.911487
+                ]
+            },
+            "properties": {
+                "map": "a",
+                "title": "water mill",
+                "subtheme": "civil_infrastructure"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.498232,
+                    51.921571
+                ]
+            },
+            "properties": {
+                "map": "a",
+                "title": "water mill",
+                "subtheme": "civil_infrastructure"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.479783,
+                    51.920619
+                ]
+            },
+            "properties": {
+                "map": "b",
+                "title": "water mill",
+                "subtheme": "civil_infrastructure"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.481852,
+                    51.924927
+                ]
+            },
+            "properties": {
+                "map": "b",
+                "title": "water mill",
+                "subtheme": "civil_infrastructure"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.498136,
+                    51.923176
+                ]
+            },
+            "properties": {
+                "map": "a",
+                "title": "water mill",
+                "subtheme": "civil_infrastructure"
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.49823,
+                    51.923161
+                ]
+            },
+            "properties": {
+                "map": "b",
+                "title": "steam pump",
+                "subtheme": "civil_infrastructure",
+                "start date": 1870
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    4.496867,
+                    51.923344
+                ]
+            },
+            "properties": {
+                "map": "a,b,d",
+                "title": "flour mill",
+                "subtheme": "agriculture"
+            }
+        }
+    ]
+}
