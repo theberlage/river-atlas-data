@@ -1,0 +1,574 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.084798,
+                        51.858601
+                    ],
+                    [
+                        6.10645,
+                        51.858687
+                    ],
+                    [
+                        6.10624,
+                        51.849209
+                    ],
+                    [
+                        6.084308,
+                        51.849252
+                    ],
+                    [
+                        6.084759,
+                        51.858605
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Zoom out",
+                "theme": "trade_and_transportation",
+                "title": "Tolkamer 20th",
+                "end date": 1961,
+                "start date": 1890,
+                "stroke-opacity": 0.3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.10045,
+                        51.85163
+                    ],
+                    [
+                        6.10201,
+                        51.851301
+                    ],
+                    [
+                        6.101454,
+                        51.849439
+                    ],
+                    [
+                        6.099965,
+                        51.84979
+                    ],
+                    [
+                        6.100438,
+                        51.851622
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Zoom in",
+                "theme": "trade_and_transportation",
+                "title": "Tolkamer 20th",
+                "end date": 1961,
+                "start date": 1890
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.10123,
+                        51.851258
+                    ],
+                    [
+                        6.101629,
+                        51.851179
+                    ],
+                    [
+                        6.101583,
+                        51.851098
+                    ],
+                    [
+                        6.101624,
+                        51.851092
+                    ],
+                    [
+                        6.101608,
+                        51.851065
+                    ],
+                    [
+                        6.10117,
+                        51.851156
+                    ],
+                    [
+                        6.101229,
+                        51.851258
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Customs office",
+                "theme": "trade_and_transportation",
+                "title": "Toll",
+                "stroke": "#312E81",
+                "stroke-opacity": 0.2
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.491276,
+                        51.913078
+                    ],
+                    [
+                        4.494487,
+                        51.915735
+                    ],
+                    [
+                        4.500597,
+                        51.9189
+                    ],
+                    [
+                        4.497542,
+                        51.920349
+                    ],
+                    [
+                        4.494761,
+                        51.920712
+                    ],
+                    [
+                        4.483991,
+                        51.918683
+                    ],
+                    [
+                        4.482189,
+                        51.917257
+                    ],
+                    [
+                        4.481876,
+                        51.91501
+                    ],
+                    [
+                        4.481993,
+                        51.91257
+                    ],
+                    [
+                        4.482502,
+                        51.912353
+                    ],
+                    [
+                        4.491393,
+                        51.913005
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Zoom out",
+                "theme": "trade_and_transportation",
+                "title": "Rotterdam 17th",
+                "end date": 1842,
+                "start date": 1830,
+                "stroke-opacity": 0.3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.121329,
+                        51.860366
+                    ],
+                    [
+                        6.122246,
+                        51.86
+                    ],
+                    [
+                        6.121979,
+                        51.859728
+                    ],
+                    [
+                        6.121527,
+                        51.859752
+                    ],
+                    [
+                        6.121002,
+                        51.859987
+                    ],
+                    [
+                        6.121328,
+                        51.860364
+                    ]
+                ]
+            },
+            "properties": {
+                "map": "Lobith 17th century",
+                "name": "Tolhuys",
+                "theme": "trade_and_transportation",
+                "title": "TOLHUYS",
+                "stroke": "#312E81",
+                "start date": 1473,
+                "stroke-opacity": 0.3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.129908,
+                        51.862373
+                    ],
+                    [
+                        6.128608,
+                        51.861852
+                    ],
+                    [
+                        6.127273,
+                        51.86311
+                    ],
+                    [
+                        6.124077,
+                        51.862112
+                    ],
+                    [
+                        6.119055,
+                        51.863869
+                    ],
+                    [
+                        6.116217,
+                        51.86298
+                    ],
+                    [
+                        6.115095,
+                        51.861858
+                    ],
+                    [
+                        6.115398,
+                        51.859531
+                    ],
+                    [
+                        6.116221,
+                        51.857471
+                    ],
+                    [
+                        6.119383,
+                        51.854341
+                    ],
+                    [
+                        6.129606,
+                        51.85814
+                    ],
+                    [
+                        6.133288,
+                        51.860307
+                    ],
+                    [
+                        6.129822,
+                        51.862393
+                    ],
+                    [
+                        6.129779,
+                        51.862367
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Zoom out",
+                "theme": "trade_and_transportation",
+                "title": "Lobith 17th",
+                "start date": 1635,
+                "stroke-opacity": 0.3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.124087,
+                        51.86206
+                    ],
+                    [
+                        6.127044,
+                        51.863007
+                    ],
+                    [
+                        6.129626,
+                        51.860225
+                    ],
+                    [
+                        6.1267,
+                        51.859249
+                    ],
+                    [
+                        6.124071,
+                        51.86206
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Zoom in",
+                "theme": "trade_and_transportation",
+                "title": "Lobith 17th",
+                "start date": 1635,
+                "stroke-opacity": 0.3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.112535,
+                        51.84931
+                    ],
+                    [
+                        6.112584,
+                        51.846923
+                    ],
+                    [
+                        6.09056,
+                        51.847044
+                    ],
+                    [
+                        6.090176,
+                        51.857445
+                    ],
+                    [
+                        6.1122,
+                        51.857445
+                    ],
+                    [
+                        6.112584,
+                        51.84914
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Zoom out",
+                "theme": "trade_and_transportation",
+                "title": "Tolkamer 19th",
+                "end date": 1904,
+                "start date": 1880,
+                "stroke-opacity": 0.3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        6.102464,
+                        51.849713
+                    ],
+                    [
+                        6.103014,
+                        51.850716
+                    ],
+                    [
+                        6.100235,
+                        51.851385
+                    ],
+                    [
+                        6.099702,
+                        51.850354
+                    ],
+                    [
+                        6.102462,
+                        51.849704
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Zoom in",
+                "theme": "trade_and_transportation",
+                "title": "Tolkamer 19th",
+                "end date": 1904,
+                "start date": 1880,
+                "stroke-opacity": 0.3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.483141,
+                        51.918538
+                    ],
+                    [
+                        4.48338,
+                        51.91812
+                    ],
+                    [
+                        4.484477,
+                        51.91834
+                    ],
+                    [
+                        4.484243,
+                        51.918788
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Zoom in ",
+                "theme": "trade_and_transportation",
+                "title": "Rotterdam 17th",
+                "end date": 1842,
+                "start date": 1830,
+                "stroke-opacity": 0.3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.515313,
+                        51.901884
+                    ],
+                    [
+                        4.515944,
+                        51.918624
+                    ],
+                    [
+                        4.479786,
+                        51.917766
+                    ],
+                    [
+                        4.478907,
+                        51.901023
+                    ],
+                    [
+                        4.515496,
+                        51.901972
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Zoom out",
+                "theme": "trade_and_transportation",
+                "title": "Rotterdam 19th",
+                "end date": 1904,
+                "start date": 1880,
+                "stroke-opacity": 0.3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.350115,
+                        51.895871
+                    ],
+                    [
+                        4.350728,
+                        51.878678
+                    ],
+                    [
+                        4.320985,
+                        51.875627
+                    ],
+                    [
+                        4.320985,
+                        51.892757
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Zoom out",
+                "theme": "trade_and_transportation",
+                "title": "Rotterdam 20th",
+                "end date": 1961,
+                "start date": 1890,
+                "stroke-opacity": 0.3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.343654,
+                        51.887555
+                    ],
+                    [
+                        4.345156,
+                        51.886868
+                    ],
+                    [
+                        4.342109,
+                        51.883847
+                    ],
+                    [
+                        4.340618,
+                        51.884534
+                    ],
+                    [
+                        4.343654,
+                        51.887561
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Zoom in",
+                "theme": "trade_and_transportation",
+                "title": "Rotterdam 20th",
+                "end date": 1961,
+                "start date": 1890,
+                "stroke-opacity": 0.3
+            }
+        },
+        {
+            "type": "Feature",
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        4.494579,
+                        51.90924
+                    ],
+                    [
+                        4.493451,
+                        51.908271
+                    ],
+                    [
+                        4.495878,
+                        51.907232
+                    ],
+                    [
+                        4.497041,
+                        51.908236
+                    ],
+                    [
+                        4.494579,
+                        51.909236
+                    ]
+                ]
+            },
+            "properties": {
+                "name": "Zoom in",
+                "theme": "trade_and_transportation",
+                "title": "Rotterdam 19th",
+                "end date": 1904,
+                "start date": 1880,
+                "stroke-opacity": 0.3
+            }
+        }
+    ]
+}
