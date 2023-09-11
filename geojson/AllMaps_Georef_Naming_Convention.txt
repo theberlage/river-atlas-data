@@ -1,0 +1,64 @@
+﻿Geo-Reference Naming Convention
+1. Everything in lowercase, except for 
+2. No space, always underscore (except for titles)
+
+
+map
+   ex: a    ex: a,b     ex: a,b,c
+
+
+a : First edition
+b: First revision
+c: Vassen revision
+d: Second revision
+
+
+theme 
+   ex: 
+river_dynamics_and_regulations
+trade_and_transportation
+material_extraction_and_discharge
+inhabitation_and_recreation
+
+
+title
+1. All titles in English
+2. Please always refer back to the collective glossary for a consistent vocabulary
+3. Titles can have space
+
+
+    ex: brick oven
+
+
+name (leave blank if no name associated)
+    ex: Van Hoven
+
+
+start date (leave blank if unknown)
+   ex: 1850
+
+
+end date (leave blank if unknown)
+   ex:1880
+
+
+
+
+ref link (optional)
+   link to google drive folder with relevant information or documentation
+
+
+
+
+
+
+
+
+NEW REGIONS:
+Brielle
+Rotterdam
+Dordrecht to Biesbosch
+Nijmegen to Lobith
+Arnhem 
+Duurstede
+Overall
